@@ -1,0 +1,30 @@
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
+#images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#images img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 3vh;
+    padding: 2vh;
+}
+
+input[type="text"] {
+    width: 400px;
+    margin: 1vh auto;
+    border-radius: 3px;
+}
+
+input[type="button"] {
+    border-radius: 3px;
+}
