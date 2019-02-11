@@ -4,11 +4,17 @@
     align-items: center;
     margin-top: 5vh;
 }
-#images {
-    display: flex;
+.content {
+    /* display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
+}
+#images {
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; */
 }
 
 #images img {
